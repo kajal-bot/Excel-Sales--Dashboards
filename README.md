@@ -16,7 +16,7 @@ This project analyzes sales data using Microsoft Excel and demonstrates  perform
 - Data Cleaning Techniques
 
 ## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](Dashboard_preview.PNG)
 
 ## Dataset
 Raw sales dataset included in repository.
